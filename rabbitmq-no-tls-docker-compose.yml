@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  rabbitmq:
+    image: rabbitmq:4.0.5-management
+    container_name: rabbitmq
+    hostname: rabbitmq
+    ports:
+      - "5672:5672"    # None TLS-secured AMQP port
+      - "15672:15672"  # None TLS UI
+      - "15692:15692"  # metrics
+    # Persistent RabbitMQ data
+    volumes:
+      - /data/rabbitmq-data/:/var/lib/rabbitmq            
+    environment:
+      - RABBITMQ_ERLANG_COOKIE=secretcookie
+    restart: always

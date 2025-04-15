@@ -1,0 +1,275 @@
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Check Point FW", "Log_MetaData": "Jan 30 11:00:05 FIREWALL04 src=192.168.1.100 dst=10.0.0.5 proto=TCP sport=12345 dport=443 action=Accept rule=10 interface=eth0"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:15:30] Event ID: 4625 | Logon Failed | User: hacker | Source IP: 203.0.113.5 | Reason: Unknown username or bad password"}
+{"Sensor": "Kaspersky AV", "Log_MetaData": "[2025-01-30 15:10:30] Kaspersky: Scan Completed | Threat: Trojan.Multi.GenAutorun | File: D:\\USBDrive\\autorun.inf | Action: Disinfected | User: Admin"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:12:45] Zeek: DNS Query | UID: DnsA7Xb19 | Src: 192.168.1.10 | Query: example.com | Query Type: A | Answer: 93.184.216.34 | TTL: 3600s"}
+{"Sensor": "Windows Defender", "Log_MetaData": "[2025-01-30 12:15:45] Windows Defender: Threat Detected - Trojan:Win32/Emotet | Action: Quarantined | File: C:\\Users\\JohnDoe\\Downloads\\malware.exe | User: JohnDoe | Status: Success"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Symantec AV", "Log_MetaData": "[2025-01-30 14:23:12] Symantec: Threat Found - W32.Downadup.B | Severity: High | File: C:\\Windows\\Temp\\infected.dll | Action: Deleted | Process: explorer.exe"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Palo Alto FW", "Log_MetaData": "Jan 30 10:20:45 FIREWALL01 %ASA-6-106100: access-list OUTSIDE_IN permitted TCP 192.168.50.2/56321 -> 10.10.20.1/443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Cisco ASA FW", "Log_MetaData": "Jan 30 10:15:23 FIREWALL01 Allow TCP 192.168.1.100:54321 -> 10.0.0.10:443"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Windows Event", "Log_MetaData": "[2025-01-30 10:30:45] Event ID: 7031 | Service Crash | Service Name: Print Spooler | Action: Restarting in 30 seconds | Machine: SERVER01"}
+{"Sensor": "Zeek", "Log_MetaData": "[2025-01-30 12:15:00] Zeek: HTTP Request | UID: HttP9Xy34 | Src: 192.168.1.50 | Host: www.example.com | URI: /index.html | Method: GET | Status: 200 | User-Agent: Mozilla/5.0"}
