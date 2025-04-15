@@ -1,4 +1,4 @@
-<img src="./rabbitmq-flow.png" alt="Data Pipeline Flow" width="600" height="300">
+<img src="./rabbitmq-flow.png" alt="Data Pipeline Flow" width="900" height="300">
 
 # Real-World Data Pipeline with RabbitMQ, NiFi, Prometheus & Grafana
 
