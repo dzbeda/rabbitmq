@@ -28,7 +28,7 @@ For a full walkthrough, read the detailed step-by-step blog post:
 
 👉 [Build a Real-World Data Pipeline with RabbitMQ, NiFi, Prometheus & Grafana](https://medium.com/@david-dudu-zbeda/how-to-build-a-real-world-data-pipeline-using-rabbitmq-nifi-prometheus-grafana-c4b0c9842f35)
 
-👉 [Check out the LinkedIn post that shares the story behind this POC](https://www.linkedin.com/posts/davidzbeda](https://www.linkedin.com/posts/davidzbeda_rabbitmq-kafka-apachenifi-activity-7318153408060755970-sBLB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEesQMBPLQwNtIHjRXj9ayUxruLsTnMveg)
+👉 [Check out the LinkedIn post that shares the story behind this POC](https://www.linkedin.com/posts/davidzbeda](https://www.linkedin.com/posts/davidzbeda_rabbitmq-kafka-apachenifi-activity-7318153408060755970-sBLB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEesQMBPLQwNtIHjRXj9ayUxruLsTnMveg).
 
 This blog covers:
 - Why RabbitMQ was chosen over Kafka
