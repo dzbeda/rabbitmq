@@ -26,7 +26,7 @@ Everything is deployed using **Docker Compose**, making it easy to set up, run, 
 
 For a full walkthrough, read the detailed step-by-step blog post:
 
-👉 [Build a Real-World Data Pipeline with RabbitMQ, NiFi, Prometheus & Grafana](https://medium.com/@david-dudu-zbeda/build-a-real-world-data-pipeline-with-rabbitmq-nifi-prometheus-grafana-1efbb2e9c1fd)
+👉 [Build a Real-World Data Pipeline with RabbitMQ, NiFi, Prometheus & Grafana](https://medium.com/@david-dudu-zbeda/how-to-build-a-real-world-data-pipeline-using-rabbitmq-nifi-prometheus-grafana-c4b0c9842f35)
 
 👉 [Check out the LinkedIn post that shares the story behind this POC]([https://www.linkedin.com/posts/davidzbeda](https://www.linkedin.com/posts/davidzbeda_rabbitmq-kafka-apachenifi-activity-7318153408060755970-sBLB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEesQMBPLQwNtIHjRXj9ayUxruLsTnMveg))
 
